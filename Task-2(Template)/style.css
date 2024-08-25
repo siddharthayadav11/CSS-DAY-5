@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+header{
+    height: 200px;
+    background-color: rgba(173, 170, 170, 0.697);
+    text-align: center;
+    padding: 25px;
+    font-size: 10 em;
+}
+.container1, .container2{
+    display: inline-block;
+}
+.container1{
+    padding: 10px;
+    width: 70%;
+}
+.container1> *{
+    width: 100%;
+}
+.container2{
+    width: 27%;
+    vertical-align: top;
+}
+section{
+    background-color: gray;
+    padding: 5px;
+    margin: 10px;
+}

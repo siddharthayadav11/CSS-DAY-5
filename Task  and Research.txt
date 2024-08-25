@@ -1,0 +1,13 @@
+Task : 
+-------
+https://www.w3schools.com/w3css/tryw3css_examples_album.htm
+https://www.w3schools.com/w3css/tryw3css_examples_magazine.htm
+https://www.youtube.com/
+
+Research :
+---------
+Object Fit 
+inset in box shadow 
+line-height
+white-space
+text-overflow
